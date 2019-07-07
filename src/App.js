@@ -17,7 +17,6 @@ const heather={
 const body={
     marginLeft: '20%',
     textAlign:'center',
-    marginBottom:'150px',
 };
 const footer={
     paddingBottom:'0px',
